@@ -10,6 +10,7 @@ public class HelloMain {
         System.out.println("Hello World");
         
         // Added content
+        System.out.println("Goodbye");
     }
 
 }
