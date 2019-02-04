@@ -9,6 +9,9 @@ public class HelloMain {
         
         System.out.println("Hello World");
         
+        // Bob's addition
+        System.out.println("Hi Bob");
+        
         // Added content
         System.out.println("Goodbye");
     }
