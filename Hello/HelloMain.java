@@ -11,6 +11,8 @@ public class HelloMain {
         
         // Alice addition
         System.out.println("Hi Alice");
+        // Bob's addition
+        System.out.println("Hi Bob");
         
         // Added content
         System.out.println("Goodbye");
