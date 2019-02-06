@@ -9,6 +9,9 @@ public class HelloMain {
         
         System.out.println("Hello World");
         
+        java.util.Date date = new java.util.Date();
+        System.out.println(date);
+        
         // Alice addition
         System.out.println("Hi Alice");
         // Bob's addition
