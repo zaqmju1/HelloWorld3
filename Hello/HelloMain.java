@@ -22,6 +22,11 @@ public class HelloMain {
         // Denise's addition
         System.out.println("Hello Denise");
         
+        // Display free memory
+        int mb = 1024*1024;
+        Runtime runtime = Runtime.getRuntime();
+        System.out.println("Current free memory:" + runtime.freeMemory() / mb);
+        
         // Added content
         System.out.println("Goodbye");
     }
